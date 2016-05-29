@@ -1,0 +1,49 @@
+body{
+	background-color:#CD00FF;
+}
+header{
+	color:#FFFE00;
+	padding:15px;
+}
+h1{
+	text-align:center;
+	font-size:50px;
+	color:#08FF48;
+}
+p{
+	text-align:center;
+	font-size:20px;
+	font-style:italic;
+	text-decoration:underline;
+	color:#0003FF;
+}
+ul{
+
+}
+li{
+
+}
+img{
+	position:relative;
+	left:350px;
+	border:5px solid;
+}
+#slogan{
+
+}
+/*body{
+	background-color:purple;
+}
+h1, #slogan{
+	text-align:center;
+	color:green;
+}
+h1{
+	font-size:50px;
+}
+#slogan{
+	font-size:20px;
+	text-decoration:underline;
+}
+
+*/
